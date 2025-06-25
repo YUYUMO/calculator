@@ -1,3 +1,4 @@
+#import the operator module to use its functions for arithmetic operations
 import operator 
 
 def main():
