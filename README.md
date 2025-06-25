@@ -20,8 +20,11 @@ Help Karel with arithmetic!
 4. Division
 
 Which operation do you want to help Karel with?: 1
+
 Enter your first number: 17
+
 Enter your second number: 18
+
 17 + 18 results in 35.
 
 Do you want to perform another operation? (y/n): y
@@ -32,8 +35,11 @@ Do you want to perform another operation? (y/n): y
 4. Division
 
 Which operation do you want to help Karel with?: 4
+
 Enter your first number: 88
+
 Enter your second number: 35
+
 88 // 35 results in 2.
 
 Do you want to perform another operation? (y/n): n
